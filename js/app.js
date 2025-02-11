@@ -41,8 +41,8 @@ const appointments = [
     },
     {
         id: 5,
-        first: 'Jeffery',
-        last: 'Epstein',
+        first: 'John',
+        last: 'Smith',
         apptDate: new Date('February 5, 2025, 08:23:00'),
         dateConfirm: new Date('January 8, 2025, 11:27:00'),
         assignedDr: 'C. Reynolds',
